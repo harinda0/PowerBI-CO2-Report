@@ -1,6 +1,3 @@
-# PowerBI-CO2-Report
-Power BI report on CO2 emissions using a popular dataset. The report emphasizes advanced features like filters, drill through, drill down, and interactive buttons. Hyperlinks were integrated for additional context, showcasing complex data visualizations that provide deeper insights into global CO2 emission trends
-
 # Project Overview
 This Power BI report was created to analyze CO2 emissions data, leveraging a popular dataset known for its complexity and depth. The report was designed to go beyond basic visualizations, incorporating advanced Power BI features to provide a more interactive and insightful user experience.
 
